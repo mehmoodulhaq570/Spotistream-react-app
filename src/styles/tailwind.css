@@ -1,0 +1,11 @@
+/* src/styles/tailwind.css */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    background-color: #f3f4f6; /* Light background */
+  }
+}
